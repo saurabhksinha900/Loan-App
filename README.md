@@ -1,4 +1,4 @@
-# AI-Powered Transparent Loan Trading Platform
+# LOANX: AI-Powered Transparent Loan Trading Platform
 
 ## Architecture Overview
 
